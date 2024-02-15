@@ -1,0 +1,70 @@
+
+
+html,body
+{
+    height: 100%;
+    margin:10px;
+    font-size: 16px;
+    font-family: "Lato",sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+color:#666;
+}
+.pimg1,.pimg2,.pimg3{
+   
+ position: relative;
+    background-position: center;
+   min-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+    background-attachment: fixed;
+}
+.pimg1{
+    background-image: url(HD-wallpaper-lord-hanuman-lord-hanuman-ji-bajrangbali-jai-bajrangbali-jai-hanuman-ji-god-hanuman-thumbnail.jpg);
+min-height: 100%;
+}
+.pimg2{
+
+background-image: url(j1.jpg);    min-height: 100%;
+    margin:0px
+       
+}
+.pimg3{
+    background-image: url(j2.jpg); min-height: 600px;
+}
+.ptext {
+    position: absolute;
+     top: 50%;
+     width:100%;
+     text-align: center;
+     color:black;
+     font-size:27px;
+     letter-spacing: 8px;
+     text-transform:Uppercase;
+
+}
+
+.textBg{
+    background: #313534;
+    color:#fff;
+    padding:20px;
+}
+.section{
+    padding:50px 80px ;
+    text-align: center;
+    top: 100px;
+}
+.section-light {
+    background-color: red;
+    color: grey;
+    height: 100px;
+}
+.oger2 {
+    background-color: black;
+
+}
+.oger3 {
+    background-color: blanchedalmond;
+}
